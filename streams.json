@@ -1,0 +1,8 @@
+[
+    { "url": "http://www.br-online.de/podcast/iq/cast.xml" },
+    { "url": "http://static.orf.at/podcast/oe1/oe1_digitalleben.xml" },
+    { "url": "http://static.orf.at/podcast/oe1/oe1_natur.xml" },
+    { "url": "http://static.orf.at/podcast/oe1/oe1_wissen.xml" },
+    { "url": "http://static.orf.at/podcast/oe1/oe1_geschichte.xml" },
+    { "url": "http://rss.orf.at/science.xml" }
+]
